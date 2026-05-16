@@ -1,0 +1,11 @@
+Algoritmo DefinirEdad
+	//definimos la edad
+	Definir Edad Como Entero
+	
+	Escribir "Hola niga"
+	Leer Edad
+	
+	
+	
+	
+FinAlgoritmo
